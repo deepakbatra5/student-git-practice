@@ -1,8 +1,8 @@
 My coding goals for this year:
-1. 
-2. 
-3. 
+1. DSA
+2. JAVA
+3. R
 
 Technical skills I want to learn:
-1.
-2.
+1.DSA
+2.Web development
