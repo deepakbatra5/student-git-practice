@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Python bytecode
+*.pyc
+
+# MacOS files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
